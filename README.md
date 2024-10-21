@@ -30,6 +30,6 @@ ShallowFBCNet is a simpler, single-layer convolutional neural network designed t
 To install the required dependencies, clone the repository and run:
 
 ```bash
-git clone https://github.com/your-username/NeuromotorFusion.git
+git clone https://github.com/Piyush12800/NeuroMotorFusion.git
 cd NeuromotorFusion
 pip install -r requirements.txt
